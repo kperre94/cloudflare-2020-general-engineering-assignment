@@ -1,0 +1,5 @@
+name = "assignment1"
+type = "webpack"
+account_id = "h5603MT6ZPmpqle90rGXTQJ52X55yL1KwkM5no7k"
+workers_dev = true
+webpack_config = "webpack.config.js"
